@@ -1,0 +1,56 @@
+.links-statistic {
+  width: 400px;
+  background-color: #fff;
+  padding: 20px;
+}
+
+.links-statistic-information {
+  display: flex;
+  align-items: center;
+}
+
+.links-statistic-title {
+  padding-left: 20px;
+}
+
+.links-statistic__number {
+  margin-left: 10px;
+  color: #5959b6;
+}
+
+.diagram-card__statistic-list {
+  margin-left: 20px;
+  width: 200px;
+}
+
+.diagram-card__statistic-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+  border-bottom: solid #eee 1px;
+}
+
+.diagram-card__legend {
+  display: flex;
+  align-items: center;
+}
+
+.diagram-card__number {
+  color: #5959b6;
+}
+
+.diagram-card__circle {
+  width: 8px;
+  height: 8px;
+  margin-right: 8px;
+  border-radius: 20px;
+}
+
+.diagram-card__count {
+  color: #5959b6;
+}
+
+.diagram-card--crawled {
+  color: #b89c07;
+}
